@@ -1,8 +1,8 @@
 export interface Organization {
   id: string;
   shortName: string;
-  fullName: string;
-  address: string;
+  fullName: string | null;
+  address: string | null;
   postalCode: string | null;
-  phone: string;
+  phone: string | null;
 }
