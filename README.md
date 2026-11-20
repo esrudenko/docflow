@@ -5,6 +5,8 @@
 DocFlow is a web application for managing documents: create, organize, track status, search and filter.
 Team project for [RS School](https://github.com/rolling-scopes-school/tasks/blob/master/fullstack-engineering/tasks/team-project-interview/README.md).
 
+**Demo:** https://esrudenko.github.io/docflow/
+
 ## Features (planned)
 
 - Create, edit and delete documents
@@ -45,6 +47,8 @@ npm run dev
 
 DocFlow — веб-приложение для управления документами: создание, организация, отслеживание статусов, поиск и фильтрация.
 Командный проект [RS School](https://github.com/rolling-scopes-school/tasks/blob/master/fullstack-engineering/tasks/team-project-interview/README.md).
+
+**Демо:** https://esrudenko.github.io/docflow/
 
 ### Возможности (в планах)
 
