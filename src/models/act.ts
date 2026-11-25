@@ -2,7 +2,7 @@ export interface Act {
   id: string;
   transferId: string;
   number: string;
-  amount: string | null;
+  amount: number;
   receivedAt: string | null;
   sentToPayAt: string | null;
   paidAt: string | null;
