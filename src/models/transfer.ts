@@ -8,5 +8,4 @@ export interface Transfer {
   sentAt: string;
   returnedAt: string | null;
   note: string;
-  approvalId: string | null;
 }

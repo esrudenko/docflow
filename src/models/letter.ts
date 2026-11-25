@@ -2,7 +2,7 @@ export interface Letter {
   id: string;
   type: string;
   number: string;
-  signetAt: string;
+  signedAt: string;
   organizationId: string | null;
   fileName: string | null;
   revisionId: string | null;
